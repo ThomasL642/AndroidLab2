@@ -73,6 +73,5 @@
         android:text="@string/EditTextText"
         android:tooltipText="@string/EditTextHint"/>
 
-
 </LinearLayout>
 

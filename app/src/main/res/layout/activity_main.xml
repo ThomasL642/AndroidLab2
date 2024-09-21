@@ -72,6 +72,5 @@
         android:inputType="textPersonName"
         android:text="@string/EditTextText"
         android:tooltipText="@string/EditTextHint"/>
-
 </LinearLayout>
 

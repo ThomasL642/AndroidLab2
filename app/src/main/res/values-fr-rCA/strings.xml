@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLab1</string>
+    <string name="hello_message">Regardez mon Interface Graphique</string>
+    <string name="ButtonText">CLIQUEZ ICI</string>
+    <string name="CheckBoxText">Regarde ça!</string>
+    <string name="SwitchText">Changer marche/arrêt</string>
+    <string name="EditTextText">Tapez ici</string>
+    <string name="EditTextHint">Tapez ici</string>
+    <string name="toast_message">Voici plus d\'informations</string>
+    <string name="SwitchMessage1">MARCHE</string>
+    <string name="SwitchMessage2">ARRÊT</string>
+    <string name="UndoMessage">Défaire</string>
+</resources>
